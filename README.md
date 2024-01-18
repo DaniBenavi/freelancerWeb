@@ -17,6 +17,6 @@ Iconos de Tabler Icons
 
 Contacto
 Nombre: Daniel Benavides
-Correo Electrónico: danibenavi1907gmail.com
+Correo Electrónico: danibenavi1907@gmail.com
 
 © 2024 Todos los derechos reservados. Daniel Benavides
